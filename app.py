@@ -47,7 +47,7 @@ app = Flask(__name__)
 # creating routes
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('templates/index.html')
 
 @app.route('/predict',methods=['POST','GET'])
 def predict():
