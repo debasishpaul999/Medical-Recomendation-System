@@ -124,6 +124,6 @@ __Recommendations:__
 ---
 ## 🙋‍♂️ Maintainer
 Debasish Paul<br>
-📧 [Email](www.debasish999@gmail.com)
+📧 [Email](mailto:www.debasish999@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/debasishpaul999/)
 📁 [Github_Repository](https://github.com/debasishpaul999/Medical-Recomendation-System.git)
